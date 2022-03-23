@@ -1,0 +1,52 @@
+div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  body {
+      color: black;
+    }
+    
+h1 {
+      color: black;
+    }
+ 
+img {
+
+    border-radius: 25%;
+    width : 500px ; 
+    margin : auto; 
+    display: block;
+}
+
+.conteneur1{
+  width : 400px;
+  margin: auto;
+  padding: 50px;
+}
+
+a{
+  font-size: 22px;
+  margin: 10px;
+}
+
+.main {
+  margin: auto;
+  width: 157px;
+
+}
+.background{
+  background-image: url("petit-gâteau-de-célébration-avec-le-cierge-magique-42711628.jpg");
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
